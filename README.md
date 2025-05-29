@@ -3,6 +3,8 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
 
 TASK 1
 TITANIC SURVIVAL PREDICTION USING CLASSIFICATION ALGORITHMS
+
+
 This project predicts the survival of passengers on the Titanic using various supervised machine learning classification algorithms. The analysis is based on the Titanic dataset from Kaggle. After thorough Exploratory Data Analysis (EDA) and data preprocessing, seven models were trained and evaluated, with XGBoost achieving the highest accuracy.
 **
 
