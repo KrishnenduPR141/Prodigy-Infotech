@@ -1,9 +1,11 @@
 # Prodigy-Infotech
-Welcome to the Prodigy Infotech Internship Projects repository! This repository contains 2 projects undertaken during the internship. Each project aims to showcase various skills and technologies learned and applied during the internship period.
+Welcome to the Prodigy Infotech Internship Projects repository! This repository contains 2 projects undertaken during the internship. Each project aims to showcase various skills and technologies learned and applied during my data science internship period.
+
 TASK 1
 TITANIC SURVIVAL PREDICTION USING CLASSIFICATION ALGORITHMS
 This project predicts the survival of passengers on the Titanic using various supervised machine learning classification algorithms. The analysis is based on the Titanic dataset from Kaggle. After thorough Exploratory Data Analysis (EDA) and data preprocessing, seven models were trained and evaluated, with XGBoost achieving the highest accuracy.
 **
+
 📌 Project Objectives**
 Predict survival of passengers using machine learning
 
