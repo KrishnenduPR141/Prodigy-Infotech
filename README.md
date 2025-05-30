@@ -1,8 +1,8 @@
 # Prodigy-Infotech
 Welcome to the Prodigy Infotech Internship Projects repository! This repository contains 2 projects undertaken during the internship. Each project aims to showcase various skills and technologies learned and applied during my data science internship period.
 
-TASK 1
-TITANIC SURVIVAL PREDICTION USING CLASSIFICATION ALGORITHMS
+**TASK 1
+TITANIC SURVIVAL PREDICTION USING CLASSIFICATION ALGORITHMS**
 
 
 This project predicts the survival of passengers on the Titanic using various supervised machine learning classification algorithms. The analysis is based on the Titanic dataset from Kaggle. After thorough Exploratory Data Analysis (EDA) and data preprocessing, seven models were trained and evaluated, with XGBoost achieving the highest accuracy.
@@ -77,6 +77,26 @@ Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
 XGBoost performed best with highest accuracy
 
+
+
+**TASK 2 BANK MARKETING CLIENT SUBSCRIPTION USINF DECISION TREE**
+
+🧠 Bank Marketing Prediction – Decision Tree Classifier
+
+This project aims to predict whether a customer will subscribe to a term deposit using a Decision Tree Classifier, based on the Bank Marketing dataset from the UCI Machine Learning Repository.
+
+✅ Key Features:
+Cleaned and preprocessed real-world marketing data
+
+Performed exploratory data analysis (EDA) to understand customer behavior
+
+Built and evaluated a Decision Tree Classifier using Scikit-learn
+
+Visualized the tree to gain insights into decision paths
+
+Assessed performance using accuracy, precision, recall, and confusion matrix
+
+🔧 Tools & Libraries: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 
 
 
